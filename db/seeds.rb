@@ -14,5 +14,5 @@ Instructor.new(name: "Ezora Ebine", email: "ezora@sliggery.com", password: "pass
 
 Student.create(name: "Lillian Lunn", email: "lillian@gmail.com", password: "password")
 Student.create(name: "Bernard Sanderson", email: "Bernard@yahoo.com", password: "password")
-Student.create(name: "Samantha Weasley", email: "Samantha@aol.com", oasswird: "password")
+Student.create(name: "Samantha Weasley", email: "Samantha@aol.com", password: "password")
 
