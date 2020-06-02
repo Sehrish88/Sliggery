@@ -1,4 +1,11 @@
 <h1>Registration Form</h1>
 
+<%= form_for(@student) do |f| %>
+    <%= render partial: "form", locals: {f: f }%>
+    <%=f.submit "Register Student"%>
+<%end%>
+
+
+
 
 <p><%= link_to "Home", root_path %></p>
