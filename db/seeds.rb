@@ -16,3 +16,5 @@ Student.create(name: "Lillian Lunn", email: "lillian@gmail.com", password: "pass
 Student.create(name: "Bernard Sanderson", email: "Bernard@yahoo.com", password: "password")
 Student.create(name: "Samantha Weasley", email: "Samantha@aol.com", password: "password")
 
+Course.create(course_title: 'Fundamentals of White Magic', course_schedule: "Mondays and Wednesdays", course_time: "7-8:30 pm", description: "A beginner course to learn the fundamentals of white magic", instructor_id: 1)
+
